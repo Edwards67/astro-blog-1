@@ -1,6 +1,6 @@
 export default {
     title: "Homepage",
-    titleSuffix: " | Pacamara ☕",
+    titleSuffix: " | Edwards ☕",
     description: "Aromatic brew, pure indulgence, exquisite satisfaction.Default description",
     defaultOgImage: "./defaultog.jpg",
     latestPosts: 3,
