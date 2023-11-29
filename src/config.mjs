@@ -1,7 +1,7 @@
 export default {
     title: "Homepage",
     titleSuffix: " | Edwards ☕",
-    description: "Aromatic brew, pure indulgence, exquisite satisfaction.Default description",
+    description: "Great space to look at the retro games review",
     defaultOgImage: "./defaultog.jpg",
     latestPosts: 3,
     postsPerPage: 3,
@@ -14,7 +14,6 @@ export default {
         'mastodon': false,
         'pinterest': false,
         'skype': false,
-        'twitter': 'https://twitter.com/palmiak_fp'
-
+        'twitter': 'https://twitter.com/Edwards0025'
     }
 }
